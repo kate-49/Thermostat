@@ -1,9 +1,25 @@
+
 h1  {
-   color: #009;
-   font-size: 1em;
+   color: #008;
+   font-size: 200%;
    margin-bottom: .3em;
    text-align: center;
    text-decoration: underline;
+   font-family: verdana;
+ }
+
+ h3 {
+   color: #008;
+   font-size: 150%;
+   font-family: verdana;
+ }
+
+ .btn-info {
+   color: white;
+   background-color: #278beb;
+   border-radius: 8px;
+   font-size: 130%;
+   font-family: verdana;
  }
 
  .low-usage {
@@ -16,4 +32,8 @@ h1  {
 
 .high-usage {
   color: red;
+}
+
+body {
+  background-color: lightblue;
 }
