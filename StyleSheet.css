@@ -1,0 +1,19 @@
+h1  {
+   color: #009;
+   font-size: 1em;
+   margin-bottom: .3em;
+   text-align: center;
+   text-decoration: underline;
+ }
+
+ .low-usage {
+  color: green;
+}
+
+.medium-usage {
+  color: black;
+}
+
+.high-usage {
+  color: red;
+}
